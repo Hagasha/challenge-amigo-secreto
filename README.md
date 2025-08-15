@@ -18,7 +18,7 @@ Boas práticas de UI/UX e acessibilidade
 
 🖼️ Demonstração
 
-Preview online: 
+Preview online: https://hagasha.github.io/challenge-amigo-secreto/
 
 🧩 Como funciona
 
