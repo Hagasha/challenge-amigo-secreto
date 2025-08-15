@@ -1,4 +1,4 @@
-#Amigo Secreto – Challenge Alura ONE
+# Amigo Secreto – Challenge Alura ONE
 
 Um mini‑app em HTML, CSS e JavaScript para cadastrar participantes e sortear um amigo secreto de forma simples e acessível.
 
