@@ -16,19 +16,9 @@ Tratativas de eventos
 
 Boas práticas de UI/UX e acessibilidade
 
-✨ Funcionalidades
-
-
-
 🖼️ Demonstração
 
-Preview online: adicione aqui o link do GitHub Pages ou Vercel, se houver
-
-Screenshots:
-
-assets/amigo-secreto.png (banner)
-
-(adicione prints da tela principal e do resultado do sorteio)
+Preview online: 
 
 🧩 Como funciona
 
